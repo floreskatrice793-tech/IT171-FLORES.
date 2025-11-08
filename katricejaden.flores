@@ -1,0 +1,14 @@
+(Question 1) After reading the options that you just chose, in one sentence, what did you think they did
+This should give you the main git program, as well as some useful wrappers, such as a simple GUI, and a wrapper with
+a terminal
+1. Most terms were unfamiliar, but I understood that enabling Windows Explorer integration makes Git easier to access and use. I also chose Notepad as the default editor since it’s simple and straightforward.
+
+(Question 2) Why would a programmer want to use the command line
+2. The shell is a quick, efficient way to run code or commands directly with the OS, unlike compilers like Thonny, which take longer to load and navigate. I’ve used it before to download software, though I can’t recall which one.
+
+(Question 3) When you type pwd again, what does the shell print out
+3. After typing "cd usr/", the shell displayed "/usr" when I entered the pwd command.
+
+Question 4) Enabling the ADD README file added a file automatically to your git repository, what file type is it (what
+extension) and what is its contents
+4. The ".md" file had three parts: preview, code, and blame. The preview showed the repository name and description, the code displayed it in text form, and the blame section listed the edit history.
